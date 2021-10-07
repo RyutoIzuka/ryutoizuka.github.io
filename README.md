@@ -1,5 +1,5 @@
 # ryutoizuka.github.io
-<a href="http://github.com/RyutoIzuka/ryutoizuka.github.io/wiki"><font size="1" color="#000000"><b>Home</b></font></a>
+<a href="https://ryutoizuka.github.io/"><font size="3" color="#000000"><b>Home</b></font></a>
 
 <a href="https://github.com/RyutoIzuka/ryutoizuka.github.io/wiki/About-me"><font size="1" color="#000000"><b>About Me</b></font></a>
 
